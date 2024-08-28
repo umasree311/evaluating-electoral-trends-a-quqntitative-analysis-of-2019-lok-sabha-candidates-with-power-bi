@@ -1,0 +1,1 @@
+# evaluating-electoral-trends-a-quqntitative-analysis-of-2019-lok-sabha-candidates-with-power-bi
